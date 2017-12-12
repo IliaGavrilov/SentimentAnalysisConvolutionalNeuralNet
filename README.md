@@ -1,4 +1,5 @@
 # Sentiment_Analysis_CNN
-- Keras IMDb
+- Keras IMDb, Reuters
 - CNN model
 - 1D convolution 
+- CPU
