@@ -3,3 +3,4 @@
 - CNN model
 - 1D convolution 
 - CPU
+- Word2vec
