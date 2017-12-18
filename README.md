@@ -5,3 +5,4 @@
 - CPU
 - Word2vec
 - Python 3
+- Code is based on the course fast.ai
