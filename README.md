@@ -4,3 +4,4 @@
 - 1D convolution 
 - CPU
 - Word2vec
+- Python 3
