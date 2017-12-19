@@ -7,3 +7,4 @@
 - Python 3
 - Code is based on the course fast.ai
 - Classification problem
+- NLP / NLU
