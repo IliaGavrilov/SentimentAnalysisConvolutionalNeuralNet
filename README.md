@@ -8,4 +8,4 @@
 - Code is based on the course fast.ai
 - Classification problem
 - NLP / NLU
-- accuracy: 89.3 on test set
+- accuracy: 0.8937 (on test set)
