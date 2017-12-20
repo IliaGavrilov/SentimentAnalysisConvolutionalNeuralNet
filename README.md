@@ -5,7 +5,7 @@
 - CPU
 - Glove (Word2vec to be disclosured)
 - Python 3
-- Code is based on the course fast.ai
+- Code is based on the course fast.ai (https://github.com/fastai)
 - Classification problem
 - NLP / NLU
 - accuracy: 0.8937 (on test set)
