@@ -4,4 +4,4 @@
 - Code is based on the course fast.ai (https://github.com/fastai), but has own prediction function to print out results:
     - Keras IMDb dataset;
     - Glove word embeddings;
-    - accuracy: 0.8937 (on test set).
+    - Accuracy: 0.8937 (on test set).
