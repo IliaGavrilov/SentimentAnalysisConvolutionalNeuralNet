@@ -6,5 +6,6 @@
 - 1D Convolutional model;
 - Keras Functional API;
 
-- Code is based on the course fast.ai MOOC (https://github.com/fastai), but used IMDB Keras dataset directly and has own prediction function to print out results:
+- Code is based on the course fast.ai MOOC (https://github.com/fastai), but used IMDb Keras dataset directly and has own prediction function to print out results:
+    - GloVe pretrained word embeddings;
     - Accuracy (on test set): 0.8937.
