@@ -3,7 +3,7 @@
 - Implemented in Jupyter Notebook (Python 3.6);
 - NLP Classification problem;
 
-- 1D Convolutional model;
+- 1D Covnet model;
 - Keras Functional API;
 
 - Code is based on the [fast.ai](https://github.com/fastai) MOOC, but used IMDb Keras dataset directly and has own prediction function to print out results:
